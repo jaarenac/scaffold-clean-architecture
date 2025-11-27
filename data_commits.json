@@ -1,0 +1,12 @@
+[
+  { "Autor": "JuanC Galvis", "Commit": "feat(pitest): Add UpgradeAction for pitest settings (#565)", "Fecha": "2024-10-18T13:46:00Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(deps): Add junit-platform-launcher if not exists (#566)", "Fecha": "2024-10-18T15:33:16Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(build): Update reactive commons templates (#589)", "Fecha": "2024-11-21T19:51:48Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(release): Setup java 17 in release action (#595)", "Fecha": "2024-12-04T21:46:00Z" },
+  { "Autor": "JuanC Galvis", "Commit": "ci(pr): check pull request branch (#596)", "Fecha": "2024-12-04T21:58:23Z" },
+  { "Autor": "JuanC Galvis", "Commit": "ci(pr): check pull request branch (#597)", "Fecha": "2024-12-04T22:10:12Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(kafka-test): Add unit tests to driven adapter async event bus  (#607)", "Fecha": "2024-12-19T13:40:35Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(update): Check versions when updating dependencies to avoid downgrades (#622)", "Fecha": "2025-01-22T15:24:25Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(build): update release actions (#666)", "Fecha": "2025-04-21T22:01:11Z" },
+  { "Autor": "JuanC Galvis", "Commit": "fix(release): Update dependencies and release (#689)", "Fecha": "2025-07-18T15:20:12Z" }
+]
